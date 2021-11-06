@@ -1,4 +1,4 @@
-# Tutorial Git y Github
+<h1>Tutorial Git y Github</h1>
 Descargamos Git de su web oficial [git-scm.com](https://git-scm.com/downloads)
 ## Primeros pasos. Configuración
 ### Para saber tu configuración en Git
