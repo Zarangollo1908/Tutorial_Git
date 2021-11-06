@@ -17,6 +17,11 @@ git config user.email "chencho@email.com"
 ```
 git config --global user.name "Chencho"
 git config --global user.email "chencho@email.com"
+
+--------------------------
+
+git config --global github.user myusername
+git config --global github.token mytoken
 ```
 
 ### Saber nombre de usuario y email con el que estás
@@ -52,4 +57,4 @@ remote = origin merge = refs/heads/master
 
 
 
-## Repositorio Local
+
